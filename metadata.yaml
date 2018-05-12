@@ -1,0 +1,40 @@
+_repo: If-Yes-and-PerhapsFour-Possibilities-and-Six-Exaggerations-with-Some-Bits-of-Fact_28379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hale, Edward Everett
+    aliases:
+    - Darragh, J. Thomas
+    - Hale, E. E. (Edward Everett)
+    - Hale, Edward E.
+    - Ingham, Frederic
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+description: ''
+gutenberg_issued: '2009-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: The children of the public -- A piece of possible history -- The
+  South American editor -- The old and the new, face to face -- The dot and line alphabet
+  -- The last voyage of the Resolute -- My double, and how he undid me -- The man
+  without a country -- The last of the Florida -- The skeleton in the closet -- Christmas
+  waits in Boston.
+title: 'If, Yes and Perhaps
+
+  Four Possibilities and Six Exaggerations with Some Bits of Fact'
+url: http://www.gutenberg.org/ebooks/28379
